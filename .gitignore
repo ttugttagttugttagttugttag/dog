@@ -1,0 +1,13 @@
+.env
+myvenv/
+*.ipynb
+.ipynb_checkpoints/
+**/*.ipynb
+*.pt
+*.vec
+*.safetensors
+*.pdf
+*.docx
+*.ipynb
+.ipynb_checkpoints/
+__pycache__/

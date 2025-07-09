@@ -1,0 +1,30 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+blinker==1.9.0
+click==8.1.8
+exchange_calendars==4.5.6
+filelock==3.18.0
+Flask==3.0.2
+fsspec==2025.5.1
+future @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+importlib_metadata==8.7.0
+itsdangerous==2.2.0
+Jinja2==3.1.6
+korean-lunar-calendar==0.3.1
+macholib @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+MarkupSafe==3.0.2
+mpmath==1.3.0
+networkx==3.2.1
+numpy==1.26.4
+pandas==2.2.1
+pandas_market_calendars==4.4.0
+pyluach==2.2.0
+python-dateutil==2.9.0.post0
+pytz==2024.1
+six @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+sympy==1.14.0
+toolz==1.0.0
+torch==2.7.1
+typing_extensions==4.14.1
+tzdata==2025.2
+Werkzeug==3.1.3
+zipp==3.22.0
